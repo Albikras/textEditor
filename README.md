@@ -17,9 +17,9 @@ node
 
 ## Usage
 
-![application](t)
-![text](t)
-![saved in database](t)
+![application](./images/pwascreenshot.png)
+![console](./images/pwaconsolescreenshot.png)
+![saved](./images/pwaSaveonscreenshot.png)
 
 ## Credits
 
@@ -45,4 +45,4 @@ heroku:
 
 ## Screenshot
 
-![t](t)
+![t](./images/)
