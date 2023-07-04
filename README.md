@@ -41,8 +41,8 @@ If you want to reach me with additional question click my email link here: krasn
 
 ## Links
 
-heroku:
+heroku: https://jatetextditor-8336a293e0b9.herokuapp.com/
 
 ## Screenshot
 
-![t](./images/)
+![herokue screenshot](./images/heroku_page.png)
